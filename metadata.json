@@ -1,0 +1,6 @@
+{
+  "name": "A Piramis Titka – Egyiptomi Szabadulószoba",
+  "description": "5. osztályosoknak szóló interaktív szabadulószoba-játék az ókori egyiptomi művészet rejtvényeivel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
